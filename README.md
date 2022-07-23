@@ -1,2 +1,2 @@
 # JavaPractice
-learning Java
+learning Java.
